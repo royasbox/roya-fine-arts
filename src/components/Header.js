@@ -38,6 +38,7 @@ function Header() {
           {[
             { to: '/', label: 'Home' },
             { to: '/gallery', label: 'Gallery' },
+          { to: '/about', label: 'About' },
           ].map((link) => (
             <Nav.Item key={link.to}>
               <Nav.Link as={Link} to={link.to} onClick={handleLinkClick}>
