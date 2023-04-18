@@ -409,3 +409,92 @@ color: #191919 !important;
   }
 }
 
+/* Contact Page Style */
+
+.contactbackground {
+  width: 100%;
+  height: 100vh;
+  background-color: #F9F9F9;
+  padding-top: 110px;
+}
+.contacthead {
+  padding-top: 3rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 800;
+  letter-spacing: 1px;
+}
+.contactpara {
+  padding-top: 1rem;
+  text-align: center;
+  font-size: 16px;
+  letter-spacing: 1px;
+  padding-bottom: 1rem;
+}
+.contactbtn {
+  display: block;
+  margin: 0 auto;
+  width: 150px;
+  height: 50px;
+  border: solid 2px;
+  background-color: transparent;
+  letter-spacing: 2px;
+}
+.contactbtn:hover {
+  background-color: rgba(51, 51, 51, 0.2);
+}
+.line {
+  margin-top: 11rem;
+}
+.copyright {
+  padding: 1px;
+  text-align: center;
+  font-size: 12px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.copyright span{
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+@media (max-width: 767px) {
+  .line {
+    margin-top: 8rem;
+  }
+  .contactpara br {
+    display: none;
+  }
+}
+
+/* Newsletter Style */
+
+.form-control[type="email"] {
+  height: 50px;
+  border-radius: 5px;
+  border: none;
+  font-size: 16px;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.form-control[type="email"]::placeholder {
+  color: #A4A4A4;
+}
+
+.btn-primary {
+  background-color: #FF7F50;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px 20px;
+  color: black;
+}
+
+.btn-primary:hover {
+  background-color: #D3D3D3;
+}
+
+.contactcopy {
+  margin-top: 50px;
+}
