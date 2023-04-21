@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/royasbox/roya-fine-arts/static/css/main.833e41c5.css",
-    "main.js": "/royasbox/roya-fine-arts/static/js/main.3229c61d.js",
+    "main.js": "/royasbox/roya-fine-arts/static/js/main.431b75bd.js",
     "static/js/787.8fa3ccb3.chunk.js": "/royasbox/roya-fine-arts/static/js/787.8fa3ccb3.chunk.js",
     "static/media/garden.jpg": "/royasbox/roya-fine-arts/static/media/garden.f305bd7f83beb4154bea.jpg",
     "static/media/ink_watercolor.jpeg": "/royasbox/roya-fine-arts/static/media/ink_watercolor.ebf28bc26dcbaeed023d.jpeg",
@@ -14,11 +14,11 @@
     "static/media/painter-removebg-preview.png": "/royasbox/roya-fine-arts/static/media/painter-removebg-preview.8e961c60478fb0d99dfb.png",
     "index.html": "/royasbox/roya-fine-arts/index.html",
     "main.833e41c5.css.map": "/royasbox/roya-fine-arts/static/css/main.833e41c5.css.map",
-    "main.3229c61d.js.map": "/royasbox/roya-fine-arts/static/js/main.3229c61d.js.map",
+    "main.431b75bd.js.map": "/royasbox/roya-fine-arts/static/js/main.431b75bd.js.map",
     "787.8fa3ccb3.chunk.js.map": "/royasbox/roya-fine-arts/static/js/787.8fa3ccb3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.833e41c5.css",
-    "static/js/main.3229c61d.js"
+    "static/js/main.431b75bd.js"
   ]
 }
