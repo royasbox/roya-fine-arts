@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/royasbox/roya-fine-arts/static/css/main.833e41c5.css",
-    "main.js": "/royasbox/roya-fine-arts/static/js/main.d954702d.js",
-    "static/js/787.8fa3ccb3.chunk.js": "/royasbox/roya-fine-arts/static/js/787.8fa3ccb3.chunk.js",
-    "static/media/garden.jpg": "/royasbox/roya-fine-arts/static/media/garden.f305bd7f83beb4154bea.jpg",
-    "static/media/ink_watercolor.jpeg": "/royasbox/roya-fine-arts/static/media/ink_watercolor.ebf28bc26dcbaeed023d.jpeg",
-    "static/media/village.jpg": "/royasbox/roya-fine-arts/static/media/village.34ebd4bab7455a0912d8.jpg",
-    "static/media/paint_brush.png": "/royasbox/roya-fine-arts/static/media/paint_brush.02529358dfa0892914d3.png",
-    "static/media/ink.jpg": "/royasbox/roya-fine-arts/static/media/ink.95a8f14fd250e1406960.jpg",
-    "static/media/hotel.jpg": "/royasbox/roya-fine-arts/static/media/hotel.86202ac3f9a12107c041.jpg",
-    "static/media/digital-removebg-preview.png": "/royasbox/roya-fine-arts/static/media/digital-removebg-preview.dee43f644951a4c44c21.png",
-    "static/media/oil_on_canvas.jpeg": "/royasbox/roya-fine-arts/static/media/oil_on_canvas.8d9b34d05e2c8ebfdd15.jpeg",
-    "static/media/painter-removebg-preview.png": "/royasbox/roya-fine-arts/static/media/painter-removebg-preview.8e961c60478fb0d99dfb.png",
-    "index.html": "/royasbox/roya-fine-arts/index.html",
-    "main.833e41c5.css.map": "/royasbox/roya-fine-arts/static/css/main.833e41c5.css.map",
-    "main.d954702d.js.map": "/royasbox/roya-fine-arts/static/js/main.d954702d.js.map",
-    "787.8fa3ccb3.chunk.js.map": "/royasbox/roya-fine-arts/static/js/787.8fa3ccb3.chunk.js.map"
+    "main.css": "/roya-fine-arts/static/css/main.a4f4246a.css",
+    "main.js": "/roya-fine-arts/static/js/main.cbe4a3b9.js",
+    "static/js/787.8fa3ccb3.chunk.js": "/roya-fine-arts/static/js/787.8fa3ccb3.chunk.js",
+    "static/media/garden.jpg": "/roya-fine-arts/static/media/garden.f305bd7f83beb4154bea.jpg",
+    "static/media/ink_watercolor.jpeg": "/roya-fine-arts/static/media/ink_watercolor.ebf28bc26dcbaeed023d.jpeg",
+    "static/media/village.jpg": "/roya-fine-arts/static/media/village.34ebd4bab7455a0912d8.jpg",
+    "static/media/paint_brush.png": "/roya-fine-arts/static/media/paint_brush.02529358dfa0892914d3.png",
+    "static/media/ink.jpg": "/roya-fine-arts/static/media/ink.95a8f14fd250e1406960.jpg",
+    "static/media/hotel.jpg": "/roya-fine-arts/static/media/hotel.86202ac3f9a12107c041.jpg",
+    "static/media/digital-removebg-preview.png": "/roya-fine-arts/static/media/digital-removebg-preview.dee43f644951a4c44c21.png",
+    "static/media/oil_on_canvas.jpeg": "/roya-fine-arts/static/media/oil_on_canvas.8d9b34d05e2c8ebfdd15.jpeg",
+    "static/media/painter-removebg-preview.png": "/roya-fine-arts/static/media/painter-removebg-preview.8e961c60478fb0d99dfb.png",
+    "index.html": "/roya-fine-arts/index.html",
+    "main.a4f4246a.css.map": "/roya-fine-arts/static/css/main.a4f4246a.css.map",
+    "main.cbe4a3b9.js.map": "/roya-fine-arts/static/js/main.cbe4a3b9.js.map",
+    "787.8fa3ccb3.chunk.js.map": "/roya-fine-arts/static/js/787.8fa3ccb3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.833e41c5.css",
-    "static/js/main.d954702d.js"
+    "static/css/main.a4f4246a.css",
+    "static/js/main.cbe4a3b9.js"
   ]
 }
